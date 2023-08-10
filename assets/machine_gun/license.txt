@@ -1,0 +1,11 @@
+Model Information:
+* title:	Machine Gun
+* source:	https://sketchfab.com/3d-models/machine-gun-9b5220a1ba104999832c11dfcf3fa01c
+* author:	Alexeykzm425 (https://sketchfab.com/Alexeykzm425)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Machine Gun" (https://sketchfab.com/3d-models/machine-gun-9b5220a1ba104999832c11dfcf3fa01c) by Alexeykzm425 (https://sketchfab.com/Alexeykzm425) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
